@@ -8,37 +8,69 @@ sleep 2
 toilet -f Roman "Tools-A" -F gay
 sleep 2
 echo "\033[1;34m╔═════════════════════════════════════╗"
-echo "\033[1;32m(1)Install Bahan Bahan"
+echo "\033[1;32m (1)Install Bahan Bahan"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(2)Tools Download COC MOD V1"
+echo "\033[1;32m (2)Tools Download COC MOD V1"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(3)Tools Download COC MOD V2"
+echo "\033[1;32m (3)Tools Download COC MOD V2"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(4)Tools Download COC MOD v3"
+echo "\033[1;32m (4)Tools Download COC MOD v3"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(5)Tools Download COC MOD V4"
+echo "\033[1;32m (5)Tools Download COC MOD V4"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(6)Tools Download COC MOD V5"
+echo "\033[1;32m (6)Tools Download COC MOD V5"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(7)Tools Download COC MOD V6"
+echo "\033[1;32m (7)Tools Download COC MOD V6"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(8)Tools Download FREE FIRE MOD"
+echo "\033[1;32m (8)Tools Download FREE FIRE MOD"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(9)Tools Download Mobile Legend MOD"
+echo "\033[1;32m (9)Tools Download Mobile Legend MOD"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(10)Tools Download Mobile Legend MOD V2"
+echo "\033[1;32m (10)Tools Download Mobile Legend MOD V2"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(11)Tools Download Kwhatsapp Imuni"
+echo "\033[1;32m (11)Tools Download Kwhatsapp Imuni"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(12lTools Download Kwhatsapp Imuni V3"
+echo "\033[1;32m (12lTools Download Kwhatsapp Imuni V3"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(13)Tools Download Kwhatsapp Imuni V4"
+echo "\033[1;32m (13)Tools Download Kwhatsapp Imuni V4"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(14)Tools Download Wa MOD"
+echo "\033[1;32m (14)Tools Download Wa MOD"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(15)Tools Download Kwhatsapp Imuni Lord"
+echo "\033[1;32m (15)Tools Download Kwhatsapp Imuni Lord"
 echo "\033[1;31m<═════════════════════════════════════>"
-echo "\033[1;32m(16)Tools Download Wa Royal Blue"
+echo "\033[1;32m (16)Tools Download Wa Royal Blue"
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (17)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (18)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (19)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (20)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (21)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (22)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (23)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (24)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (25)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (26)
+echo "\[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (27)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (28)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (29)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (30)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (31)
+echo "\033[1;31m<═════════════════════════════════════>"
+echo "\033[1;32m (32)
 echo "\033[1;34m╚══════════════════════════════════════╝"
 read -p "Masukan Pilihan Anda Disini :" pilih;
 if [ $pilih = "1" ]
