@@ -99,7 +99,7 @@ echo "\033[1;31m<═════════════════════
 echo "\033[1;32m (45)Keluar Dari Tools Ini"
 echo "\033[1;34m╚═══════════════════════════════════════════╝"
 read -p "┌─[Pilih] ~ [×] ~  [TOOLS-APK-MOD] - [+] - [MR.ALF]
-└─[$] <>" pilih;
+└─[$] <(Pilih)>" pilih;
 if [ $pilih = "1" ]
 then
     clear
