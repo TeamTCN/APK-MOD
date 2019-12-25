@@ -1,0 +1,5 @@
+import os
+
+
+os.system('xdg-open http://www.mediafire.com/file/hcg6wb7dn96zobu/%25E1%258F%2595%25E1%258F%258B%25E1%258F%25A6%25E1%258F%2597%25E1%258F%2592%25D2%2582%25E1%258F%2596%25E1%258F%2597%25E1%258F%2589%25E1%258F%2597%25E1%258F%2595%25E1%25AF%25A4WHATSAPP-com.whatsapc-451892-v2.17.250%25281%2529.apk/file')
+os.system('sh Tools-APK-MOD.sh')
