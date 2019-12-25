@@ -15,7 +15,7 @@ echo "\033[1;31m<═════════════════════
 echo "\033[1;32m (3)Tools Download COC MOD V2"                    
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (4)Tools Download COC MOD v3"                    
-echo "\033[1;31m<══════════════════════════════════════════>"     
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (5)Tools Download COC MOD V4"
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (6)Tools Download COC MOD V5"
@@ -43,7 +43,7 @@ echo "\033[1;31m<═════════════════════
 echo "\033[1;32m (17)Tools Download Wa Devil V14"                 
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (18)Tools Download Wa Devil V12"
-echo "\033[1;31m<══════════════════════════════════════════>"     
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (19)Tools Download Wa Devil V11"
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (20)Tools Download Wa Devil V10"                 
@@ -53,13 +53,13 @@ echo "\033[1;31m<═════════════════════
 echo "\033[1;32m (22)Tools Download Wa Devil V8"
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (23)Tools Download Wa Devil V7"
-echo "\033[1;31m<══════════════════════════════════════════>"     
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (24)Tools Download Wa Devil V6"
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (25)Tools Download Wa Devil V5"
-echo "\033[1;31m<══════════════════════════════════════════>"     
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (26)Tools Download Wa CDN V2.17.250"
-echo "\033[1;31m<══════════════════════════════════════════>"     
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (27)Tools Download Wa Nyai"                      
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (28)Tools Download Wa STCT"
@@ -85,7 +85,7 @@ echo "\033[1;31m<═════════════════════
 echo "\033[1;32m (38)Tools Download Wa Aero Hazar V8.11"          
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (39)Tools Download Wa Kwhatsapp V8"              
-echo "\033[1;31m<══════════════════════════════════════════>"    
+echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (40)Tools Download Wa Rifki Official"
 echo "\033[1;31m<══════════════════════════════════════════>"
 echo "\033[1;32m (41)Tools Download Wa KAWA V8.15 OFC"
@@ -124,13 +124,20 @@ then
     pip install mechanize
     pip install requests
     pip install request
-    pip install bs4                                                                         pip install tqdm                                                                        pip install progress
-    clear                                                                                   toilet -f future "Install Selesai..." -F gay
+    pip install bs4                                                                         
+    pip install tqdm                                                                        
+    pip install progress
+    clear                                                                                   
+    toilet -f future "Install Selesai..." -F gay
     sleep 2
-    clear                                                                                   sh Tools-APK-MOD.sh                                                                 elif [ $pilih = "2" ]                                                                   then
-     clear
-     python2 COC-MOD.py
-elif [ $pilih = "3" ]                                                                   then
+    clear                                                                                   
+    sh Tools-APK-MOD.sh                                                                 
+elif [ $pilih = "2" ]                                                                   
+then
+    clear
+    python2 COC-MOD.py
+elif [ $pilih = "3" ]                                                                   
+then
      clear
      python2 COC-MODV2.py
 elif [ $pilih = "4" ]
@@ -141,13 +148,20 @@ elif [ $pilih = "5" ]
 then
      clear
      python2 COC-MODV4.py
-elif [ $pilih = "6" ]                                                                   then                                                                                         clear
-     python2 COC-MODV5.py                                                               elif [ $pilih = "7" ]
+elif [ $pilih = "6" ]                                                                   
+then                                                                                         
+     clear
+     python2 COC-MODV5.py                                                               
+elif [ $pilih = "7" ]
 then
-     clear                                                                                   python2 COC-MODV6.py                                                               elif [ $pilih = "8" ]                                                                   then
+     clear                                                                                   
+     python2 COC-MODV6.py                                                               
+elif [ $pilih = "8" ]                                                                   
+then
      clear
      python2 FREE-FIRE-MOD.py
-elif [ $pilih = "9" ]                                                                   then
+elif [ $pilih = "9" ]                                                                   
+then
      clear
      python2 Mobile-Legend-MOD.py
 elif [ $pilih = "10" ]
@@ -193,12 +207,17 @@ then
 elif [ $pilih = "20" ]
 then
      clear
-     python2 WA-Devil-V10.py                                                            elif [ $pilih = "21" ]
+     python2 WA-Devil-V10.py                                                            
+elif [ $pilih = "21" ]
 then
-     clear                                                                                   python2 WA-Devil-V9.py                                                             elif [ $pilih = "22" ]                                                                  then
+     clear                                                                                   
+python2 WA-Devil-V9.py                                                             
+elif [ $pilih = "22" ]                                                                  
+then
      clear
      python2 WA-Devil-V8.py
-elif [ $pilih = "23" ]                                                                  then
+elif [ $pilih = "23" ]                                                                  
+then
      clear
      python2 WA-Devil-V7.py
 elif [ $pilih = "24" ]
@@ -215,7 +234,8 @@ then
      python2 WA-CDN-V2.py
 elif [ $pilih = "27" ]
 then
-     clear                                                                                   python2 WA-Nyai.py
+     clear                                                                                   
+python2 WA-Nyai.py
 elif [ $pilih = "28" ]
 then
      clear
@@ -250,10 +270,14 @@ then
      python2 WA-TKWhatsapp.py
 elif [ $pilih = "36" ]
 then
-     clear                                                                                   python2 WA-LORI-V1.py                                                              elif [ $pilih = "37" ]                                                                  then
+     clear                                                                                   
+python2 WA-LORI-V1.py                                                              
+elif [ $pilih = "37" ]                                                                  
+then
      clear
      python2 WA-AERO-V8.5.py
-elif [ $pilih = "38" ]                                                                  then
+elif [ $pilih = "38" ]                                                                  
+then
      clear
      python2 WA-AERO-V8.11.py
 elif [ $pilih = "39" ]
@@ -270,10 +294,12 @@ then
      python2 WA-KAWA-V8.15-OFC.py
 elif [ $pilih = "42" ]
 then
-     clear                                                                                   python2 WA-KAWA-V8.15-IMUN.py
+     clear                                                                                   
+python2 WA-KAWA-V8.15-IMUN.py
 elif [ $pilih = "43" ]
 then
-     clear                                                                                   python2 COC-MOD-V2.11.py
+     clear                                                                                   
+python2 COC-MOD-V2.11.py
 elif [ $pilih = "44" ]
 then
      clear
