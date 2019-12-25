@@ -303,7 +303,9 @@ python2 COC-MOD-V2.11.py
 elif [ $pilih = "44" ]
 then
      clear
-     sh Tools-APK-MOD.sh
+     cd $home
+     cd TOOLS-A
+     sh Tools-A.sh
 elif [ $pilih = "45" ]
 then
      clear
